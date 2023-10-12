@@ -1,0 +1,14 @@
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Shopping List\Shopping List\bin\Debug\net6.0\Shopping List.exe
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Shopping List\Shopping List\bin\Debug\net6.0\Shopping List.deps.json
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Shopping List\Shopping List\bin\Debug\net6.0\Shopping List.runtimeconfig.json
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Shopping List\Shopping List\bin\Debug\net6.0\Shopping List.dll
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Shopping List\Shopping List\bin\Debug\net6.0\Shopping List.pdb
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Shopping List\Shopping List\obj\Debug\net6.0\Shopping List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Shopping List\Shopping List\obj\Debug\net6.0\Shopping List.AssemblyInfoInputs.cache
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Shopping List\Shopping List\obj\Debug\net6.0\Shopping List.AssemblyInfo.cs
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Shopping List\Shopping List\obj\Debug\net6.0\Shopping List.csproj.CoreCompileInputs.cache
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Shopping List\Shopping List\obj\Debug\net6.0\Shopping List.dll
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Shopping List\Shopping List\obj\Debug\net6.0\refint\Shopping List.dll
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Shopping List\Shopping List\obj\Debug\net6.0\Shopping List.pdb
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Shopping List\Shopping List\obj\Debug\net6.0\Shopping List.genruntimeconfig.cache
+C:\Users\kirva\Documents\Grand Circus\Class Demo Code\Shopping List\Shopping List\obj\Debug\net6.0\ref\Shopping List.dll
